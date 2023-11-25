@@ -1,6 +1,8 @@
 # BitMasters
 
-Most recent branch incorporating all the design changes. The repeated phrases are displayed in the front-end
+# Exam Buddy
+
+A web application that help students prepare for examinations by analysing previous year question papers. Its gives the most important topics based on the past paper uploaded.
 
 ## versions used
 
